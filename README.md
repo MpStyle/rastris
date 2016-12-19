@@ -2,6 +2,8 @@
 
 RAndom STRIngS generator.
 
+[Travis CI](https://travis-ci.org/MpStyle/rastris.svg?branch=master)
+
 ## How to install 
 Simply add a dependency on _mpstyle/rastris_ to your project's _composer.json_ file if you use Composer to manage the dependencies of your project. Here is a minimal example of a composer.json file that just defines a development-time dependency on MpStyle Rastris:
 
